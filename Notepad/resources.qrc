@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Documents-icon.png</file>
+        <file>iconfinder_document-open_118911.png</file>
+        <file>iconfinder_floppy_285657.png</file>
+        <file>iconfinder_image_file_2639838.png</file>
+        <file>iconfinder_icon-2-mail-envelope-open_314274.png</file>
+        <file>iconfinder_063_Undo_183192.png</file>
+        <file>iconfinder_Cancel_1493282.png</file>
+        <file>iconfinder_content-cut_326596.png</file>
+        <file>iconfinder_content-paste_326599.png</file>
+        <file>iconfinder_editor-redo-arrow-reload-glyph_763333.png</file>
+        <file>iconfinder_icon-ios7-copy_211733.png</file>
+    </qresource>
+</RCC>
