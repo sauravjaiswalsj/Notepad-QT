@@ -1,6 +1,8 @@
 #-------------------------------------------------
 #
 # Project created by QtCreator 2019-04-19T03:00:56
+# Author Saurav Jaiswal
+# connect Sauravjaiswalsj.github.io`
 #
 #-------------------------------------------------
 
